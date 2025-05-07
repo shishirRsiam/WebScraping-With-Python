@@ -92,3 +92,29 @@
 08-05-2025 02:59:18  476  git commit -am"Scrape all book from website and save to 05_All_Books.txt file"
 08-05-2025 02:59:24  477  git push
 08-05-2025 02:59:43  478  git add .
+08-05-2025 03:00:06  479  git commit -am "add all Book html code"
+08-05-2025 03:00:26  480  git push
+08-05-2025 03:01:02  481  git push
+08-05-2025 03:03:24  482  python 05_Scrape_Book_WebSite.py 
+08-05-2025 03:03:32  483  python 05_
+08-05-2025 03:03:38  484  python 05_Scrape_All_Books.py 
+08-05-2025 03:03:54  485  python 05_Scrape_All_Books.py 
+08-05-2025 03:04:19  486  python 05_Scrape_All_Books.py 
+08-05-2025 03:05:04  487  python 05_Scrape_All_Books.py 
+08-05-2025 03:05:58  488  python 05_Scrape_All_Books.py 
+08-05-2025 03:06:14  489  python 05_Scrape_All_Books.py 
+08-05-2025 03:06:42  490  python 05_Scrape_All_Books.py 
+08-05-2025 03:06:46  491  python 05_Scrape_All_Books.py 
+08-05-2025 03:42:44  492  python 05_Scrape_All_Books.py 
+08-05-2025 03:44:09  493  python 05_Scrape_All_Books.py 
+08-05-2025 03:48:11  494  python 05_Scrape_All_Books.py 
+08-05-2025 03:51:23  495  python 05_Scrape_All_Books_and_Book_Images.py 
+08-05-2025 03:52:34  496  python 05_Scrape_All_Books_and_Book_Images.py 
+08-05-2025 03:59:18  497  python 05_Scrape_All_Books_and_Book_Images.py 
+08-05-2025 04:05:43  498  python 05_Scrape_All_Books_and_Book_Images.py 
+08-05-2025 04:09:51  499  python 05_Scrape_All_Books_and_Book_Images.py 
+08-05-2025 04:10:57  500  python 05_Scrape_All_Books_and_Book_Images.py 
+08-05-2025 04:11:20  501  clear
+08-05-2025 04:26:34  502  python 05_Scrape_All_Books_and_Book_Images.py 
+08-05-2025 04:28:18  503  clear
+08-05-2025 04:29:04  504  git add .

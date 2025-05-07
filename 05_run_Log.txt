@@ -1,0 +1,165 @@
+SISHI@SishirSiam MINGW64 /f/GitHub/WebScraping-With-Python (main)
+$ python 05_Scrape_All_Books_and_Book_Images.py 
+Time Taken: 0:00:00.840120
+Scraping page 1 -> Status Code: 200
+Page 1 took 0:00:20.893583 time to scrape
+
+Time Taken: 0:00:00.822681
+Scraping page 2 -> Status Code: 200
+Page 2 took 0:00:21.537679 time to scrape
+
+Time Taken: 0:00:00.822239
+Scraping page 3 -> Status Code: 200
+Page 3 took 0:00:22.159357 time to scrape
+
+Time Taken: 0:00:00.823877
+Scraping page 4 -> Status Code: 200
+Page 4 took 0:00:20.981860 time to scrape
+
+Time Taken: 0:00:00.841451
+Scraping page 5 -> Status Code: 200
+Page 5 took 0:00:22.507146 time to scrape
+
+Time Taken: 0:00:00.810519
+Scraping page 6 -> Status Code: 200
+Page 6 took 0:00:21.653373 time to scrape
+
+Time Taken: 0:00:00.859806
+Scraping page 7 -> Status Code: 200
+Page 7 took 0:00:21.441876 time to scrape
+
+Time Taken: 0:00:00.847485
+Scraping page 8 -> Status Code: 200
+Page 8 took 0:00:21.630059 time to scrape
+
+Time Taken: 0:00:00.816608
+Scraping page 9 -> Status Code: 200
+Page 9 took 0:00:21.489340 time to scrape
+
+Time Taken: 0:00:00.814953
+Scraping page 10 -> Status Code: 200
+Page 10 took 0:00:21.814279 time to scrape
+
+Time Taken: 0:00:00.839011
+Scraping page 11 -> Status Code: 200
+Page 11 took 0:00:20.824716 time to scrape
+
+Time Taken: 0:00:00.829566
+Scraping page 12 -> Status Code: 200
+Page 12 took 0:00:21.842563 time to scrape
+
+Time Taken: 0:00:00.837866
+Scraping page 13 -> Status Code: 200
+Page 13 took 0:00:23.407926 time to scrape
+
+Time Taken: 0:00:00.814227
+Scraping page 14 -> Status Code: 200
+Page 14 took 0:00:20.706625 time to scrape
+
+Time Taken: 0:00:00.853919
+Scraping page 15 -> Status Code: 200
+Page 15 took 0:00:20.639818 time to scrape
+
+Time Taken: 0:00:00.816485
+Scraping page 16 -> Status Code: 200
+Page 16 took 0:00:21.313733 time to scrape
+
+Time Taken: 0:00:00.851931
+Scraping page 17 -> Status Code: 200
+Page 17 took 0:00:21.208000 time to scrape
+
+Time Taken: 0:00:00.811000
+Scraping page 18 -> Status Code: 200
+Page 18 took 0:00:21.600495 time to scrape
+
+Time Taken: 0:00:00.855679
+Scraping page 19 -> Status Code: 200
+Page 19 took 0:00:20.657287 time to scrape
+
+Time Taken: 0:00:00.800545
+Scraping page 20 -> Status Code: 200
+Page 20 took 0:00:21.664399 time to scrape
+
+Time Taken: 0:00:00.807977
+Scraping page 21 -> Status Code: 200
+Page 21 took 0:00:20.868801 time to scrape
+
+Time Taken: 0:00:00.948171
+Scraping page 22 -> Status Code: 200
+Page 22 took 0:00:20.591844 time to scrape
+
+Time Taken: 0:00:00.815545
+Scraping page 23 -> Status Code: 200
+Page 23 took 0:00:21.245560 time to scrape
+
+Time Taken: 0:00:00.847894
+Scraping page 24 -> Status Code: 200
+Page 24 took 0:00:20.863831 time to scrape
+
+Time Taken: 0:00:00.807172
+Scraping page 25 -> Status Code: 200
+Page 25 took 0:00:21.248882 time to scrape
+
+Time Taken: 0:00:00.851110
+Scraping page 26 -> Status Code: 200
+Page 26 took 0:00:19.812452 time to scrape
+
+Time Taken: 0:00:00.847494
+Scraping page 27 -> Status Code: 200
+Page 27 took 0:00:21.057005 time to scrape
+
+Time Taken: 0:00:00.850972
+Scraping page 28 -> Status Code: 200
+Page 28 took 0:00:20.606781 time to scrape
+
+Time Taken: 0:00:00.816932
+Scraping page 29 -> Status Code: 200
+Page 29 took 0:00:22.462855 time to scrape
+
+Time Taken: 0:00:00.815793
+Scraping page 30 -> Status Code: 200
+Page 30 took 0:00:21.803881 time to scrape
+
+Time Taken: 0:00:00.811402
+Scraping page 31 -> Status Code: 200
+Page 31 took 0:00:20.457876 time to scrape
+
+Time Taken: 0:00:00.846817
+Scraping page 32 -> Status Code: 200
+Page 32 took 0:00:23.673677 time to scrape
+
+Time Taken: 0:00:00.796114
+Scraping page 33 -> Status Code: 200
+Page 33 took 0:00:21.451654 time to scrape
+
+Time Taken: 0:00:00.801419
+Scraping page 34 -> Status Code: 200
+Page 34 took 0:00:20.025245 time to scrape
+
+Time Taken: 0:00:00.777245
+Scraping page 35 -> Status Code: 200
+Page 35 took 0:00:20.859948 time to scrape
+
+Time Taken: 0:00:00.789471
+Scraping page 36 -> Status Code: 200
+Page 36 took 0:00:20.264051 time to scrape
+
+Time Taken: 0:00:00.794428
+Scraping page 37 -> Status Code: 200
+Page 37 took 0:00:20.538692 time to scrape
+
+Time Taken: 0:00:00.766746
+Scraping page 38 -> Status Code: 200
+Page 38 took 0:00:25.210610 time to scrape
+
+Time Taken: 0:00:00.785472
+Scraping page 39 -> Status Code: 200
+Page 39 took 0:00:20.273705 time to scrape
+
+Time Taken: 0:00:00.798760
+Scraping page 40 -> Status Code: 200
+Page 40 took 0:00:20.699599 time to scrape
+
+Time Taken: 0:00:00.797784
+Scraping page 41 -> Status Code: 200
+Page 41 took 0:00:20.253394 time to scrape
