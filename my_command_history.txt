@@ -15,3 +15,22 @@
 08-05-2025 00:18:56  399  python 01_Basic_Usage.py 
 08-05-2025 00:19:12  400  python 01_Basic_Usage.py 
 08-05-2025 00:20:48  401  git add .
+08-05-2025 00:21:08  402  git commit -am "add 01_Basic_Usage of bs4 and add 01_Simple_About_Me"
+08-05-2025 00:21:12  403  git push
+08-05-2025 00:39:22  404  python 02_Common\ BeautifulSoup\ Methods\ and\ Attributes.py 
+08-05-2025 00:39:35  405  python 02_Common\ BeautifulSoup\ Methods\ and\ Attributes.py 
+08-05-2025 00:40:33  406  python 02_Common\ BeautifulSoup\ Methods\ and\ Attributes.py 
+08-05-2025 00:40:42  407  python 02_Common\ BeautifulSoup\ Methods\ and\ Attributes.py 
+08-05-2025 00:40:57  408  python 02_Common\ BeautifulSoup\ Methods\ and\ Attributes.py 
+08-05-2025 00:41:04  409  python 02_Common\ BeautifulSoup\ Methods\ and\ Attributes.py 
+08-05-2025 00:41:27  410  python 02_Common\ BeautifulSoup\ Methods\ and\ Attributes.py 
+08-05-2025 00:42:33  411  python 02_Common\ BeautifulSoup\ Methods\ and\ Attributes.py 
+08-05-2025 00:43:37  412  python 02_Common\ BeautifulSoup\ Methods\ and\ Attributes.py 
+08-05-2025 00:43:51  413  python 02_Common\ BeautifulSoup\ Methods\ and\ Attributes.py 
+08-05-2025 00:44:18  414  python 02_Common\ BeautifulSoup\ Methods\ and\ Attributes.py 
+08-05-2025 00:45:18  415  python 02_Common\ BeautifulSoup\ Methods\ and\ Attributes.py 
+08-05-2025 00:45:51  416  python 02_Common\ BeautifulSoup\ Methods\ and\ Attributes.py 
+08-05-2025 00:46:03  417  python 02_Common\ BeautifulSoup\ Methods\ and\ Attributes.py 
+08-05-2025 00:46:23  418  python 02_Common\ BeautifulSoup\ Methods\ and\ Attributes.py 
+08-05-2025 00:49:48  419  it add .
+08-05-2025 00:49:50  420  git add .
