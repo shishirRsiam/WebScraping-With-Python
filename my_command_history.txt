@@ -89,3 +89,6 @@
 08-05-2025 02:56:24  473  python 05_Scrape_Book_WebSite.py 
 08-05-2025 02:58:03  474  python 05_Scrape_Book_WebSite.py 
 08-05-2025 02:58:47  475  git add 05_All_Books.txt 05_Scrape_All_Books.py 
+08-05-2025 02:59:18  476  git commit -am"Scrape all book from website and save to 05_All_Books.txt file"
+08-05-2025 02:59:24  477  git push
+08-05-2025 02:59:43  478  git add .
