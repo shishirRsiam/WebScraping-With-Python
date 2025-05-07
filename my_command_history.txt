@@ -50,3 +50,8 @@
 08-05-2025 01:30:42  434  git push
 08-05-2025 01:33:32  435  python 03_response_basic.py 
 08-05-2025 01:34:58  436  python 03_response_basic.py 
+08-05-2025 01:35:08  437  git commit -am"add 03_response_basic"
+08-05-2025 01:35:14  438  git push
+08-05-2025 01:38:23  439  python 04_response_advanced.py 
+08-05-2025 01:38:39  440  python 04_response_advanced.py 
+08-05-2025 01:42:21  441  git add 04_response_advanced.py 
