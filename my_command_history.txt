@@ -1,2 +1,17 @@
 07-05-2025 02:08:53  391  -----END RSA PRIVATE KEY-----
 07-05-2025 02:08:55  392  git add .
+07-05-2025 02:09:03  393  git commit -am "update readme.md files"
+07-05-2025 02:09:08  394  git push
+07-05-2025 23:57:28  391  -----END RSA PRIVATE KEY-----
+07-05-2025 23:58:21  391  -----END RSA PRIVATE KEY-----
+07-05-2025 23:58:25  391  -----END RSA PRIVATE KEY-----
+08-05-2025 00:08:52  392  python 01_Basic_bs4.py 
+08-05-2025 00:15:26  393  python 01_Basic_Usage.py 
+08-05-2025 00:15:40  394  python 01_Basic_Usage.py 
+08-05-2025 00:16:22  395  python 01_Basic_Usage.py 
+08-05-2025 00:16:33  396  python 01_Basic_Usage.py 
+08-05-2025 00:17:21  397  python 01_Basic_Usage.py 
+08-05-2025 00:18:34  398  python 01_Basic_Usage.py 
+08-05-2025 00:18:56  399  python 01_Basic_Usage.py 
+08-05-2025 00:19:12  400  python 01_Basic_Usage.py 
+08-05-2025 00:20:48  401  git add .
