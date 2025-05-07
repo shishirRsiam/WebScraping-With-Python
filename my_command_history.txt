@@ -80,3 +80,12 @@
 08-05-2025 02:33:38  464  python 06_Scrape_All_Side_Categories.py 
 08-05-2025 02:34:37  465  git add .gitignore 
 08-05-2025 02:35:14  466  git add 06_All_Side_Categories.txt 06_Scrape_All_Side_Categories.py 
+08-05-2025 02:35:51  467  git commit -am"Scrape Category from Book website and save it in 06_All_Side_Categories.txt file"
+08-05-2025 02:35:59  468  git push
+08-05-2025 02:46:02  469  git push
+08-05-2025 02:46:10  470  python 05_Scrape_Book_WebSite.py 
+08-05-2025 02:52:51  471  python 05_Scrape_Book_WebSite.py 
+08-05-2025 02:53:22  472  python 05_Scrape_Book_WebSite.py 
+08-05-2025 02:56:24  473  python 05_Scrape_Book_WebSite.py 
+08-05-2025 02:58:03  474  python 05_Scrape_Book_WebSite.py 
+08-05-2025 02:58:47  475  git add 05_All_Books.txt 05_Scrape_All_Books.py 
