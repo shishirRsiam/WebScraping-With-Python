@@ -65,3 +65,5 @@
 08-05-2025 02:06:32  449  python 05_Scrape_Book_WebSite.py 
 08-05-2025 02:08:59  450  python 05_Scrape_Book_WebSite.py 
 08-05-2025 02:12:31  451  python 05_Scrape_Book_WebSite.py 
+08-05-2025 02:18:20  452  git commit -am"learn: how to select a class"
+08-05-2025 02:18:36  453  git add 02_Common_Methods_and_Attributes.py 
