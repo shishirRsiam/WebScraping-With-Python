@@ -34,3 +34,15 @@
 08-05-2025 00:46:23  418  python 02_Common\ BeautifulSoup\ Methods\ and\ Attributes.py 
 08-05-2025 00:49:48  419  it add .
 08-05-2025 00:49:50  420  git add .
+08-05-2025 00:49:57  421  git commit -am "02_Common BeautifulSoup Methods and Attributes"
+08-05-2025 00:50:02  422  git push
+08-05-2025 00:54:19  423  python 03_Scrape\ Book_from_books.toscrape.com.py 
+08-05-2025 00:56:38  424  [A
+08-05-2025 00:56:42  425  python 03_Scrape\ Book_from_books.toscrape.com.py 
+08-05-2025 00:57:05  426  python 03_Scrape_Book_from_books.toscrape.com.py 
+08-05-2025 00:57:14  427  python 03_Scrape_Book_from_books.toscrape.com.py 
+08-05-2025 01:00:49  428  python 03_Scrape_Book_from_books.toscrape.com.py 
+08-05-2025 01:02:51  429  python 03_Scrape_Book_from_books.toscrape.com.py 
+08-05-2025 01:05:22  430  python 03_response_basic.py 
+08-05-2025 01:06:38  431  python 03_response_basic.py 
+08-05-2025 01:30:20  432  git add 03_response_basic.py 
