@@ -67,3 +67,16 @@
 08-05-2025 02:12:31  451  python 05_Scrape_Book_WebSite.py 
 08-05-2025 02:18:20  452  git commit -am"learn: how to select a class"
 08-05-2025 02:18:36  453  git add 02_Common_Methods_and_Attributes.py 
+08-05-2025 02:18:38  454  git commit -am"learn: how to select a class"
+08-05-2025 02:18:45  455  git push
+08-05-2025 02:26:20  456  python 06_Scrape_Book_Category.py 
+08-05-2025 02:28:27  457  python 06_Scrape_Book_Category.py 
+08-05-2025 02:28:56  458  python 06_Scrape_Book_Category.py 
+08-05-2025 02:31:05  459  python 06_Scrape_Book_Category.py 
+08-05-2025 02:31:23  460  python 06_Scrape_All_Side_Categories.py 
+08-05-2025 02:32:34  461  python 06_Scrape_All_Side_Categories.py 
+08-05-2025 02:32:54  462  python 06_Scrape_All_Side_Categories.py 
+08-05-2025 02:33:20  463  python 06_Scrape_All_Side_Categories.py 
+08-05-2025 02:33:38  464  python 06_Scrape_All_Side_Categories.py 
+08-05-2025 02:34:37  465  git add .gitignore 
+08-05-2025 02:35:14  466  git add 06_All_Side_Categories.txt 06_Scrape_All_Side_Categories.py 
