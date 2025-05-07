@@ -55,3 +55,13 @@
 08-05-2025 01:38:23  439  python 04_response_advanced.py 
 08-05-2025 01:38:39  440  python 04_response_advanced.py 
 08-05-2025 01:42:21  441  git add 04_response_advanced.py 
+08-05-2025 01:42:37  442  git commit -am"add 04_response_advanced"
+08-05-2025 01:42:42  443  git push
+08-05-2025 02:00:47  444  python 05_Scrape_Book.py 
+08-05-2025 02:01:47  445  python 05_Scrape_Book_WebSite.py 
+08-05-2025 02:03:27  446  python 05_Scrape_Book_WebSite.py 
+08-05-2025 02:04:56  447  python 05_Scrape_Book_WebSite.py 
+08-05-2025 02:06:14  448  python 05_Scrape_Book_WebSite.py 
+08-05-2025 02:06:32  449  python 05_Scrape_Book_WebSite.py 
+08-05-2025 02:08:59  450  python 05_Scrape_Book_WebSite.py 
+08-05-2025 02:12:31  451  python 05_Scrape_Book_WebSite.py 
