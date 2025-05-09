@@ -118,3 +118,76 @@
 08-05-2025 04:26:34  502  python 05_Scrape_All_Books_and_Book_Images.py 
 08-05-2025 04:28:18  503  clear
 08-05-2025 04:29:04  504  git add .
+08-05-2025 04:29:06  505  git commit -am "Scrap Book name, and images and save the log"
+08-05-2025 04:30:08  506  git push
+08-05-2025 13:31:30  391  -----END RSA PRIVATE KEY-----
+09-05-2025 03:26:37  391  -----END RSA PRIVATE KEY-----
+09-05-2025 03:26:50  391  -----END RSA PRIVATE KEY-----
+09-05-2025 10:52:08  391  -----END RSA PRIVATE KEY-----
+09-05-2025 10:52:08  391  -----END RSA PRIVATE KEY-----
+09-05-2025 10:55:53  392  python 07_Scraping_News_Data.py 
+09-05-2025 10:56:23  393  python 07_Scraping_News_Data.py 
+09-05-2025 10:56:43  394  python 07_Scraping_News_Data.py 
+09-05-2025 10:57:11  395  python 07_Scraping_News_Data.py 
+09-05-2025 11:08:56  396  [A
+09-05-2025 11:08:59  397  python 07_Scraping_News_Data.py 
+09-05-2025 11:24:33  398  python 07_Scraping_News_Data.py 
+09-05-2025 11:24:44  399  python 07_Scraping_News_Data.py 
+09-05-2025 11:25:06  400  python 07_Scraping_News_Data.py 
+09-05-2025 11:25:18  401  python 07_Scraping_News_Data.py 
+09-05-2025 11:25:33  402  python 07_Scraping_News_Data.py 
+09-05-2025 11:25:42  403  python 07_Scraping_News_Data.py 
+09-05-2025 11:28:47  404  python 07_Scraping_News_Data.py 
+09-05-2025 11:28:55  405  python 07_Scraping_News_Data.py 
+09-05-2025 11:29:06  406  python 07_Scraping_News_Data.py 
+09-05-2025 11:29:40  407  python 07_Scraping_News_Data.py 
+09-05-2025 11:30:25  408  python 07_Scraping_News_Data.py 
+09-05-2025 11:31:40  409  clear
+09-05-2025 11:31:42  410  clear
+09-05-2025 11:31:46  411  python 07_Scraping_News_Data.py 
+09-05-2025 11:32:26  412  clear
+09-05-2025 11:32:31  391  -----END RSA PRIVATE KEY-----
+09-05-2025 11:32:46  392  python 07_Scraping_News_Data.py 
+09-05-2025 11:35:59  393  python 07_Scraping_News_Data.py 
+09-05-2025 11:37:31  394  python 07_Scraping_News_Data.py 
+09-05-2025 11:41:24  395  python 07_Scraping_News_Data.py 
+09-05-2025 11:43:07  396  python 07_Scraping_News_Data.py 
+09-05-2025 11:44:26  397  python 07_Scraping_News_Data.py 
+09-05-2025 11:45:24  398  python 07_Scraping_News_Data.py 
+09-05-2025 11:45:45  399  python 07_Scraping_News_Data.py 
+09-05-2025 11:47:37  400  python 07_Scraping_News_Data.py 
+09-05-2025 11:47:49  401  python 07_Scraping_News_Data.py 
+09-05-2025 11:49:01  402  python 07_Scraping_News_Data.py 
+09-05-2025 11:50:24  403  python 07_Scraping_News_Data.py 
+09-05-2025 11:50:50  404  python 07_Scraping_News_Data.py 
+09-05-2025 11:50:54  405  python 07_Scraping_News_Data.py 
+09-05-2025 11:51:02  406  python 07_Scraping_News_Data.py 
+09-05-2025 11:51:14  407  python 07_Scraping_News_Data.py 
+09-05-2025 11:51:49  408  python 07_Scraping_News_Data.py 
+09-05-2025 11:52:07  409  python 07_Scraping_News_Data.py 
+09-05-2025 11:52:20  410  python 07_Scraping_News_Data.py 
+09-05-2025 11:54:54  411  python 07_Scraping_News_Data.py 
+09-05-2025 11:55:10  412  python 07_Scraping_News_Data.py 
+09-05-2025 11:56:30  413  python 07_Scraping_News_Data.py 
+09-05-2025 11:57:12  414  python 07_Scraping_News_Data.py 
+09-05-2025 11:57:25  415  python 07_Scraping_News_Data.py 
+09-05-2025 11:59:20  416  python 07_Scraping_News_Data.py 
+09-05-2025 12:02:25  417  python 07_Scraping_News_Data.py 
+09-05-2025 12:05:01  418  python 07_Scraping_News_Data.py 
+09-05-2025 12:06:27  419  python 07_Scraping_News_Data.py 
+09-05-2025 12:09:05  420  python 07_Scraping_News_Data.py 
+09-05-2025 12:11:28  421  python 07_Scraping_News_Data.py 
+09-05-2025 12:11:51  422  clear
+09-05-2025 12:11:58  423  python 07_Scraping_News_Data.py 
+09-05-2025 12:12:55  424  python 07_Scraping_News_Data.py 
+09-05-2025 12:13:35  425  python 07_Scraping_News_Data.py 
+09-05-2025 12:15:14  426  python 07_Scraping_News_Data.py 
+09-05-2025 12:15:23  427  python 07_Scraping_News_Data.py 
+09-05-2025 12:15:35  428  python 07_Scraping_News_Data.py 
+09-05-2025 12:17:19  429  python 07_Scraping_News_Data.py 
+09-05-2025 12:17:54  430  python 07_Scraping_News_Data.py 
+09-05-2025 12:18:43  431  python 07_Scraping_News_Data.py 
+09-05-2025 12:19:07  432  python 07_Scraping_News_Data.py 
+09-05-2025 12:28:17  433  python 07_Scraping_News_Data.py 
+09-05-2025 12:30:03  434  python 07_Scraping_News_Data.py 
+09-05-2025 12:30:38  435  git add .
