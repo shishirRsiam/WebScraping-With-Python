@@ -1,4 +1,4 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=WebScrapingWithPython&label=Repository%20Views&color=0e75b6&style=flat" alt="WebScrapingWithPython" /> </p>
 # 🕸️ WebScraping-With-Python
 
 This repository is a beginner-friendly guide to web scraping using Python. It includes simple scripts to help you learn how to extract data from websites.
@@ -60,5 +60,7 @@ pip install -r requirements.txt
 
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shishirrsiam&label=Profile%20views&color=0e75b6&style=flat" alt="shishirrsiam" /> </p>
+
 
 Happy Scraping! 🕷️
